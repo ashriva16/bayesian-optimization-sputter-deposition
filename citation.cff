@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Bayesian optimization for stable properties amid processing fluctuations in sputter deposition
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Ankit
+    family-names: Shrivastava
+    email: ashriva@sandia.gov
+    affiliation: Sandia National Laboratories
+    orcid: 'https://orcid.org/0000-0003-4445-8817'
+identifiers:
+  - type: doi
+    value: 10.1116/6.0003418
+repository-code: >-
+  https://github.com/ashriva16/bayesian-optimization-sputter-deposition
+keywords:
+  - Bayesian optimization
+  - thin films
+  - design of experiments
+license: MIT
