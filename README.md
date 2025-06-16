@@ -5,13 +5,13 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <img alt="Python Version" src="https://img.shields.io/badge/python-3.8%2B-blue" />
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/ashriva16/{{ cookiecutter.project_name }}" />
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ashriva16/{{ cookiecutter.project_name }}" />
-  <a href="https://github.com/ashriva16/{{ cookiecutter.project_name }}/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/ashriva16/{{ cookiecutter.project_name }}" />
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/ashriva16/bayesian-optimization-sputter-deposition" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ashriva16/bayesian-optimization-sputter-deposition" />
+  <a href="https://github.com/ashriva16/bayesian-optimization-sputter-deposition/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/ashriva16/bayesian-optimization-sputter-deposition" />
   </a>
-  <a href="https://github.com/ashriva16/{{ cookiecutter.project_name }}/pulls">
-    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ashriva16/{{ cookiecutter.project_name }}" />
+  <a href="https://github.com/ashriva16/bayesian-optimization-sputter-deposition/pulls">
+    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ashriva16/bayesian-optimization-sputter-deposition" />
   </a>
 </p>
 
