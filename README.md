@@ -15,9 +15,22 @@
   </a>
 </p>
 
-## 📌 Description
+## 📌 Project Description
 
-{{ cookiecutter.project_description }}
+This repository presents a **Bayesian optimization framework** for guiding the **sputter deposition of molybdenum thin films**, targeting optimal **residual stress** and **sheet resistance**, while minimizing sensitivity to stochastic process variations.
+Key deposition parameters — **power**, **pressure**, and **working distance** — influence these properties.
+We apply **Bayesian optimization** to efficiently search the process space using a **custom objective function** that incorporates:
+
+- Empirical stress and resistance data
+- Prior knowledge about pressure-dependent variability
+
+### ✅ Key Features
+
+- Rapid identification of optimal deposition parameters
+- Improved consistency and reproducibility of thin film properties
+- Reduced experimental effort
+
+Our results confirm that Bayesian optimization is a powerful tool for thin film process development, delivering high-performance films with controlled stress and resistance characteristics.
 
 ---
 
