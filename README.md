@@ -38,7 +38,6 @@ Our results confirm that Bayesian optimization is a powerful tool for thin film 
 
 ```text
 .
-├── CHANGELOG.md        # Chronologically tracks added, changed, fixed, or removed features
 ├── docs/               # Sphinx or MkDocs-based documentation (API, usage, design, papers, etc.)
 ├── environment.yml     # Conda environment specification for reproducibility
 ├── LICENSE             # Licensing information (e.g., MIT, Apache 2.0)
@@ -49,7 +48,6 @@ Our results confirm that Bayesian optimization is a powerful tool for thin film 
 ├── pvd_exp_demo/            # scripts to demonstrate bayesopt behavior
 ├── pvd_exp_run/            # scripts used during experiment design
 ├── utils/              # Shared utility functions and helper modules used across the project
-└── VERSION             # Plain text file holding the current version of the project (e.g., 0.1.0)
 ```
 
 ---
