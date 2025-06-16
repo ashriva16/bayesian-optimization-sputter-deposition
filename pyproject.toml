@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "psp_multimodal"
+version = "0.1.0"
+description = "multimodal machine learning"
+authors = [
+  { name="Ankit Shrivastava"}
+]
+keywords = ["multimodal machine learning"]
+classifiers = ["Programming Language :: Python :: 3"]
+dependencies = []
+
+[tool.setuptools]
+package-dir = {"" = "."}  # Root directory contains packages
+
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = [
+          "models", "models.*",
+          "preprocess", "preprocess.*",
+          "shared", "shared.*",
+          "utils", "utils.*"]

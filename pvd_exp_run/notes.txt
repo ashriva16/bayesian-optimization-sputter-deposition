@@ -1,0 +1,39 @@
+Things to be noted
+    - 
+
+Refer nohup for details of hyperparameter used
+trial 0 :
+    Used data - Last year data from batch directories /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/
+    Suggested parameters by the current model - (2.0, 628.283)
+    Actually Suggested parameters - (646.8, 1) Constraints were pressure (1, 30) and power (100, 1000)
+    Actually Run - 3 wafers with (650, 2)
+trial 1 :
+    Used data - old_data + Wafer Sample # (1-3) from /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/new_bayes_exp
+    Suggested parameters by the current model - (2.0, 433.319)
+    Actually Suggested parameters - (433.27, 2)
+    Actually Run - 3 wafers with (430, 2)
+trial 2 :
+    Used data - old_data + Wafer Sample # (1-6) from /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/new_bayes_exp
+    Suggested parameters by the current model - (2.0, 558.487)
+    Actually Suggested parameters - (558.52, 2)
+    Actually Run - 3 wafers (560, 2) and later 3 wafers (560, 2) due to the cleaning
+trial 3 :
+    Used data - old_data + Wafer Sample # (1-12) from /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/new_bayes_exp
+    Suggested parameters by the current model - (2.0, 667.058)
+    Actually Suggested parameters - (668.063, 2)
+    Actually Run - 3 wafers (670, 2) and later 5 wafers (670,2) due to the cleaning.
+trial 4 :
+    Used data - old_data + Wafer Sample # (1-17_2) from /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/new_bayes_exp
+    Suggested parameters by the current model - (2.0, 615.339)
+    Actually Suggested parameters - (2.0, 615.339)
+    Actually Run - (2.0, 620)
+trial 5 :
+    Used data - old_data + Wafer Sample # (1-21) from /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/new_bayes_exp
+    Suggested parameters by the current model - (2.0, 322.113)
+    Actually Suggested parameters - (2.0, 322.113)
+    Actually Run - (2.0, 320)
+trial 6 :
+    Used data - old_data + Wafer Sample # (1-23) from /home/ashriva/work/beyond_finger_printing/ankit/Experiments/Data/raw/old_format/new_bayes_exp
+    Suggested parameters by the current model - 
+    Actually Suggested parameters - 
+    Actually Run - 
