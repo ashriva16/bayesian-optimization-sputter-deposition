@@ -1,4 +1,4 @@
-# bayesian optimization of sputter-deposition
+# Bayesian optimization of sputter-deposition
 
 <p align="left">
   <a href="https://opensource.org/licenses/MIT">
