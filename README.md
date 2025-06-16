@@ -47,7 +47,7 @@ Our results confirm that Bayesian optimization is a powerful tool for thin film 
 ├── pyproject.toml      # Project metadata and build config (PEP 621, setuptools, linting tools)
 ├── README.md           # Project overview, usage, setup, and contribution guidelines
 ├── pvd_exp_demo/            # scripts to demonstrate bayesopt behavior
-├── pvd_exp_demo/            # scripts used for during experiment design
+├── pvd_exp_run/            # scripts used during experiment design
 ├── utils/              # Shared utility functions and helper modules used across the project
 └── VERSION             # Plain text file holding the current version of the project (e.g., 0.1.0)
 ```
