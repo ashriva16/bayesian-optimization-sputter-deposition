@@ -24,6 +24,8 @@ We apply **Bayesian optimization** to efficiently search the process space using
 - Empirical stress and resistance data
 - Prior knowledge about pressure-dependent variability
 
+![Highlight](images/highlight.jpg)
+
 ### ✅ Key Features
 
 - Rapid identification of optimal deposition parameters
